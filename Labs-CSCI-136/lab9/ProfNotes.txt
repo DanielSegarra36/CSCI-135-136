@@ -1,0 +1,5 @@
+Grade: 80
+
+-10 this condition is never true: (p1Answer &&(p2Answer ) ﻿﻿﻿﻿﻿
+
+-10 need to find out which﻿﻿﻿﻿﻿﻿ polynomial is of higher degree, then find x so that the higher degree poly is greater﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿

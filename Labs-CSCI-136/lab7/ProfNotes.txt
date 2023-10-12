@@ -1,0 +1,2 @@
+Grade: 92
+-8 task2: output should be resized, not blurred﻿﻿﻿﻿﻿

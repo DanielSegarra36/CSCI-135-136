@@ -1,0 +1,2 @@
+Grade: 85
+Did not do task 2. Logic not right for task 1. Use more test cases to make sure output is correct. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
